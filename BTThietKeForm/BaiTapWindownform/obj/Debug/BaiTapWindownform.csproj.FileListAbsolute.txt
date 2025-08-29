@@ -1,0 +1,13 @@
+D:\BTThietKeForm\BaiTapWindownform\bin\Debug\BaiTapWindownform.exe.config
+D:\BTThietKeForm\BaiTapWindownform\bin\Debug\BaiTapWindownform.exe
+D:\BTThietKeForm\BaiTapWindownform\bin\Debug\BaiTapWindownform.pdb
+D:\BTThietKeForm\BaiTapWindownform\obj\Debug\BaiTapWindownform.csproj.AssemblyReference.cache
+D:\BTThietKeForm\BaiTapWindownform\obj\Debug\BaiTapWindownform.frmBai2.resources
+D:\BTThietKeForm\BaiTapWindownform\obj\Debug\BaiTapWindownform.frmChinh.resources
+D:\BTThietKeForm\BaiTapWindownform\obj\Debug\BaiTapWindownform.Properties.Resources.resources
+D:\BTThietKeForm\BaiTapWindownform\obj\Debug\BaiTapWindownform.csproj.GenerateResource.cache
+D:\BTThietKeForm\BaiTapWindownform\obj\Debug\BaiTapWindownform.csproj.CoreCompileInputs.cache
+D:\BTThietKeForm\BaiTapWindownform\obj\Debug\BaiTapWindownform.exe
+D:\BTThietKeForm\BaiTapWindownform\obj\Debug\BaiTapWindownform.pdb
+D:\BTThietKeForm\BaiTapWindownform\obj\Debug\BaiTapWindownform.frmBai1.resources
+D:\BTThietKeForm\BaiTapWindownform\obj\Debug\BaiTapWindownform.frmBai3.resources
